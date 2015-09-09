@@ -1,0 +1,10 @@
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\TwitterSimulator.exe
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\TwitterSimulator.pdb
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\NDesk.Options.dll
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\NLog.dll
+C:\C#Projects\TwitterSimulator\TwitterSimulator\obj\x86\Debug\TwitterSimulator.exe
+C:\C#Projects\TwitterSimulator\TwitterSimulator\obj\x86\Debug\TwitterSimulator.pdb
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\TwitterSimulator.exe.manifest
+C:\C#Projects\TwitterSimulator\TwitterSimulator\bin\Debug\TwitterSimulator.application
+C:\C#Projects\TwitterSimulator\TwitterSimulator\obj\x86\Debug\TwitterSimulator.exe.manifest
+C:\C#Projects\TwitterSimulator\TwitterSimulator\obj\x86\Debug\TwitterSimulator.application
